@@ -1,0 +1,53 @@
+/**
+* @name RotatePFP
+* @author H4K0N42#3624
+* @authorId 
+* @version 1.0.0
+* @description A Theme, that rotates pfp on Hover! (User "RadialStatus" for best experience)
+*/
+
+/* Chat */
+.avatar-2e8lTP:hover {
+  transform: scale(1) rotate(360deg);
+  transition: width 0.5s ease, height 0.5s ease, transform 1s ease;
+}
+
+/* Members */
+.avatar-6qzftW:hover {
+  transform: scale(1) rotate(720deg);
+  transition: width 1s ease, height 1s ease, transform 1s ease;
+}
+
+/* DMs */
+.avatar-1HDIsL:hover {
+  transform: scale(1) rotate(360deg);
+  transition: width 1s ease, height 1s ease, transform 1s ease;
+}
+
+/* Call */
+.avatarWrapper-24Rbpj:hover {
+  transform: scale(1) rotate(360deg);
+  transition: width 1s ease, height 1s ease, transform 1s ease;
+}
+.callAvatarMaskContainer-2Uwued:hover {
+  transform: scale(1) rotate(360deg);
+  transition: width 1s ease, height 1s ease, transform 1s ease;
+}
+
+/* Friend List */
+.avatar-2MSPKk:hover {
+  transform: scale(1) rotate(360deg);
+  transition: width 1s ease, height 1s ease, transform 1s ease;
+}
+
+/* Bottom-Left Thing */
+.avatar-1EWyVD:hover {
+  transform: scale(1) rotate(1800deg);
+  transition: width 0.5s ease, height 0.5s ease, transform 3s ease;
+}
+
+/* Active Now */
+.headerAvatar-GgCKcl:hover {
+  transform: scale(1) rotate(360deg);
+  transition: width 1s ease, height 1s ease, transform 1s ease;
+}
